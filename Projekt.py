@@ -1,5 +1,5 @@
 import random
-
+#promena
 
 def gensachovnica(n):  # odlucio sam se da cu ovu tablu uraditi preko 2D liste 
     line = n         # redovi
